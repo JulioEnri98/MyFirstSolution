@@ -1,4 +1,6 @@
-﻿namespace ConsoleApp
+﻿using Serilog;
+
+namespace ConsoleApp
 {
     internal class Program
     {
