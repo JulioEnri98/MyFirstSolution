@@ -4,8 +4,8 @@
     {
         static void Main(string[] args)
         {
-            
-           
+            Algoritmo algoritmo = new Algoritmo();
+            algoritmo.saludar();
         }
     }
 }
